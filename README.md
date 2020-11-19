@@ -7,7 +7,7 @@ Loner's Paradise: An infinitely long, randomly generated 2D platformer game:
 
 Pong:
 
-![alt text](https://i.ibb.co/JkZGxH7/pong.png" alt="pong)
+![alt text](https://i.ibb.co/JkZGxH7/pong.png)
 
 [Click here to play Pong](http://chan-js-pong.glitch.me/)
 
